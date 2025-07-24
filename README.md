@@ -6,8 +6,19 @@ Use the following command to start the development server with pnpm:
 
 ```bash
 pnpm run dev
+```
+or 
+```bash
+pnpm run dev
+```bash
+yarn dev
+```
+or
+```bash
+pnpm dev
+```
 
-bun dev
+
 Open http://localhost:3000 in your browser to see your app in action.
 
 Begin customizing your project by editing the app/page.tsx file. The page will automatically reload and update as you make changes.
