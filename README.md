@@ -9,8 +9,6 @@ pnpm run dev
 ```
 or 
 ```bash
-pnpm run dev
-```bash
 yarn dev
 ```
 or
