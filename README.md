@@ -1,13 +1,12 @@
 Getting Started
 
-To start the development server, run one of the following commands:
+## Run the Development Server
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
+Use the following command to start the development server with pnpm:
+
+```bash
+pnpm run dev
+
 bun dev
 Open http://localhost:3000 in your browser to see your app in action.
 
